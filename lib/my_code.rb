@@ -1,8 +1,4 @@
-def map(source_array, block)
-  
+def map(array)
+
+
 end
-
-
-
-
-def reduce ( )
