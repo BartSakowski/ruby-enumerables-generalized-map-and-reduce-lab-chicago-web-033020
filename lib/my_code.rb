@@ -7,3 +7,8 @@ def map(array)
   end
 new_array
 end
+
+
+def reduce(total, starting_point = 0)
+
+end
