@@ -1,4 +1,5 @@
-def map(array)
+def map
 
 
 end
+
